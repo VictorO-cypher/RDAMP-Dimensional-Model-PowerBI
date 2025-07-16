@@ -63,18 +63,3 @@ RDAMP-Dimensional-Model-PowerBI/
 │   └── AceSuperstore_Dashboard.pbix
 ├── screenshots/
 │   └── schema_diagram.png
-└── README.md
-```
-
----
-
-## 🔗 LinkedIn Reflection Post
-Be sure to:
-- Share what you learned from SQL modeling & Power BI
-- Include a dashboard screenshot
-- Use hashtag `#RDAMP`
-- Tag **Realcare Tech Mark LTD**
-
----
-
-**🎉 Well done!** This setup simulates a real-world analytics workflow — from SQL modeling to dashboard delivery.
